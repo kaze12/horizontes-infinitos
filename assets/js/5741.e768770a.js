@@ -1,0 +1,1 @@
+(Array.isArray(globalThis.webpackChunkweb)?globalThis.webpackChunkweb:globalThis.webpackChunkweb=[]).push([[5741],{8122(){}}]);
